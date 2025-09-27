@@ -16,7 +16,7 @@ I have strong communication and analytical skills, experience in customer relati
 - **Other Tools**: MS Office (Excel/VBA), AutoCAD, SolidWorks, WordPress  
 
 🔹 Projects
-📂 [QA Portfolio](https://github.com/jakub-skorupa/qa-portfolio) 
+📂 [QA Portfolio](https://github.com/jakubskorupa02/QA-Portfolio) 
 
 🔹 Education
 🎓 **AGH University of Science and Technology**  
