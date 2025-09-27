@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm Jakub 
 
-<!--
-**jakubskorupa02/jakubskorupa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring QA Tester | AGH Student | Passionate about technology & software quality  
 
-Here are some ideas to get you started:
+🔹 About Me
+I am a Master’s student in Education in Technology and Computer Science at AGH University of Science and Technology in Cracow.  
+I am looking for an opportunity to gain my first professional experience in IT, especially in software testing.  
+I have strong communication and analytical skills, experience in customer relations and teamwork, and I pay close attention to detail.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Technical Skills
+- **Testing**: creating test cases, bug reporting, browser developer tools  
+- **Testing Tools**: Git, Postman, BrowserStack, Jira, TestLink  
+- **Programming**: JavaScript, C++, HTML5, CSS, Node.js  
+- **Databases**: MySQL (basic design and management)  
+- **Operating Systems**: Windows, Linux  
+- **Other Tools**: MS Office (Excel/VBA), AutoCAD, SolidWorks, WordPress  
+
+🔹 Projects
+📂 [QA Portfolio](https://github.com/jakub-skorupa/qa-portfolio) 
+
+🔹 Education
+🎓 **AGH University of Science and Technology**  
+- Master’s degree (2025 – present) – Education in Technology and Computer Science  
+- Bachelor’s degree (2021 – 2025) – Education in Technology and Computer Science  
+
+📫 Contact
+- ✉️ E-mail: jakub.skorupa44@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/jakub-skorupa](https://www.linkedin.com/in/jakub-skorupa-6b6546316)  
