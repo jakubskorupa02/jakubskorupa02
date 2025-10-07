@@ -15,14 +15,15 @@ I have strong communication and analytical skills, experience in customer relati
 - **Operating Systems**: Windows, Linux  
 - **Other Tools**: MS Office (Excel/VBA), AutoCAD, SolidWorks, WordPress  
 
-🔹 Projects
-📂 [QA Portfolio](https://github.com/jakubskorupa02/QA-Portfolio) 
-
 🔹 Education
 🎓 **AGH University of Science and Technology**  
 - Master’s degree (2025 – present) – Education in Technology and Computer Science  
 - Bachelor’s degree (2021 – 2025) – Education in Technology and Computer Science  
 
+🔹 Projects
+📂 [QA Portfolio](https://github.com/jakubskorupa02/QA-Portfolio) 
+🔹 CV 
+📁 [Jakub_Skorupa_CV](https://drive.google.com/file/d/1hZYDGylB_kJN8pOvRmYhVs-PGoppblO3/view?usp=sharing)  
 📫 Contact
 - ✉️ E-mail: jakub.skorupa44@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/jakub-skorupa](https://www.linkedin.com/in/jakub-skorupa-6b6546316)  
