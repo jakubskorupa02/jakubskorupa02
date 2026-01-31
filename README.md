@@ -23,7 +23,7 @@ I have strong communication and analytical skills, experience in customer relati
 🔹 Projects
 📂 [QA Portfolio](https://github.com/jakubskorupa02/QA-Portfolio) 
 🔹 CV 
-📁 [Jakub_Skorupa_CV]([https://drive.google.com/file/d/1hZYDGylB_kJN8pOvRmYhVs-PGoppblO3/view?usp=sharing](https://drive.google.com/file/d/1hZYDGylB_kJN8pOvRmYhVs-PGoppblO3/view?usp=drive_link))  
+📁 [Jakub_Skorupa_CV](https://drive.google.com/file/d/1hZYDGylB_kJN8pOvRmYhVs-PGoppblO3/view?usp=drive_link)  
 📫 Contact
 - ✉️ E-mail: jakub.skorupa44@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/jakub-skorupa](https://www.linkedin.com/in/jakub-skorupa-6b6546316)  
